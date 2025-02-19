@@ -29,5 +29,5 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 
 ## Site Status : 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/185c7d93-1dbb-4fdc-ae75-a75ca6a63c86/deploy-status)](https://app.netlify.com/sites/venerable-platypus-edcb09/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/185c7d93-1dbb-4fdc-ae75-a75ca6a63c86/deploy-status)](https://venerable-platypus-edcb09.netlify.app/)
 
