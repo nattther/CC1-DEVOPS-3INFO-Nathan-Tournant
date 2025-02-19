@@ -1,3 +1,10 @@
+# CC1 DevOps 3INFO
+
+[![Tests](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/tree/master/.github/workflows/test.yml)]
+
+
+
+
 # DevOps Project
 
 Ce projet est destiné à valider les connaissances en DevOps des élèves de 3ème année d'informatique.
