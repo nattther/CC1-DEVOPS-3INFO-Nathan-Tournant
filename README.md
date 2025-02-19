@@ -21,7 +21,7 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 
 [![Tests Lint ](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/Lint.yml/badge.svg)](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/Lint.yml)
 
-[![Preview](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/Preview.yml/badge.svg)](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/Preview.yml)
+[![Preview](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/Previews.yml/badge.svg)](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/Previews.yml)
 
 
 [![Deploy](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/Deploy.yml/badge.svg)](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/Deploy.yml)
