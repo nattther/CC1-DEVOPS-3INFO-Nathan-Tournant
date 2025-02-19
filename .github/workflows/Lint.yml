@@ -1,0 +1,27 @@
+name: Lint Code
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4  # Récupère le code source du repo
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20        # Utilise la version 20 de Node.js
+          cache: 'npm'            # Active le cache pour npm
+
+      - name: Install dependencies
+        run: npm ci             # Installe les dépendances du projet
+
+      - name: Run ESLint
+        run: npm run lint        # Exécute ESLint (commande définie dans package.json)
