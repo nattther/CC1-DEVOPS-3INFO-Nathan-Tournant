@@ -1,6 +1,7 @@
 # CC1 DevOps 3INFO
 
-[![Tests](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/tree/master/.github/workflows/node.js.yml)]
+[![Tests](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/node.js.yml/badge.svg)](https://github.com/nattther/CC1-DEVOPS-3INFO-Nathan-Tournant/actions/workflows/node.js.yml)
+
 
 
 
